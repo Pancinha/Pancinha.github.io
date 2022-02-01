@@ -1,0 +1,167 @@
+/*{{{{{{{{{{{{{{{*/
+body{
+    background-color: rgb(36 45 52);
+    border-color: blue;
+}
+#intro{
+    font-size: 70px;
+    color: #1a89d5;
+    text-align: left;
+    margin-left: 40px;
+    margin-top:  -9px;
+    cursor: pointer;
+}
+.topics1,.topics2,.topics3{
+    text-align: center;
+    font-size: 35px;
+    cursor: pointer;
+    background-color: black;
+    margin-bottom: 25px;
+    color: wheat;
+    border: 1px solid #1a89d5;
+    border-radius: 50px;
+}
+#preten{
+    text-align: center;
+    font-size: 30px;
+}
+#Knowledge{
+    background-color: white;
+    margin-left: 75px;
+    margin-right: 75px;
+    font-size: 21px;
+    color: white;
+    background-color: black;
+}
+ul{
+    margin-left: 50px;;
+}
+#Knowledge,.nameOfService,#allProjects,#preten,.infoService, #backInfo, .backService, .backProjects{
+    display: none;
+}
+#email{
+    text-align: center;
+}
+.contact{
+    text-align: center;  
+}
+#backInfoFix{
+    background-color: black;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 471px;
+    margin-bottom: 30px;
+    width: 60%;
+}
+#backInfo{
+    background-color: black;
+    border-radius: 50px;
+    height: 255px;
+    margin-bottom: 30px;
+}
+#cntSb{
+    color: white;
+
+    font-size: 21px;
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.infoService{
+    color: white;
+    font-size: 21px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.backService{
+    background-color: black;
+    border-radius: 50px;
+    height: 177px;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.nameOfService{
+    font-size: 26px;
+    margin-top: 41px;
+    color: #1a89d5;
+    font-style: italic;
+    text-align: left;
+    margin-left: 40px;
+}
+.topics1{
+    margin-top: 25px;
+}
+.backProjects{
+    background-color: black;
+    border-radius: 50px;
+    width: 100%;
+    height: 690px;
+}
+#allProjects{
+    color: white;
+    font-size: 21px;
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+li{
+    font-size: 24px;
+}
+h4{
+    font-size: 25px;
+    margin-top: 41px;
+    color: #1a89d5;
+    font-style: italic;
+    text-align: left;
+    margin-left: 3px;
+    margin-bottom: 7px;
+}
+#contpreten{
+    margin-left: 40px;
+    margin-top: 141px;
+    text-align: left;
+    color: white;
+    font-size: 20px;
+}
+
+.backFot{
+    margin-top: 149px;
+    background-color: #1a89d5;
+    height: 300px;
+    margin-left: -9px;
+    margin-right: -9px;
+    margin-bottom: -9px;
+}
+
+
+#icon{
+    height: 30px;
+    border-radius: 50px;
+    cursor: pointer;
+    text-align: center;
+}
+#iconUp{
+    text-align: center;
+}
+
+#inforPre{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+#extra{
+    color: white;
+    font-size: 25px;
+    float: right;
+    margin-top: -500px;
+    background-color: #1a89d5;
+    height: 470px;
+    width: 42%;
+    margin-right: -9px;
+    align-items: center;
+    text-align: center;
+}
+
